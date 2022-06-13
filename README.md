@@ -1,7 +1,7 @@
 # Face-Recognition-Attendance-System
 I had Created Face-Recognition-Attendance-System using Python 
 
-#Requiremnet
+# Requiremnet
 Hardware Requirement:
 •	Web Camera
 •	Computer (i5 8th Gen, 8gb ram)
@@ -15,7 +15,7 @@ Software Requirement:
 •	Windows 10
 •	Latest Version of all Library
 
-#Download Python Libraries:-
+# Download Python Libraries:-
 Python Libraries: -
 Tkinter: Tkinter is the GUI library for Python. Tkinter is the fastest and easiest way to create the Graphic User Interface with Python
 
@@ -32,7 +32,7 @@ OpenCV-Python: OpenCV is an image processing library and it is used for image an
 ## Database ##
 in this Project i had use MySQL Workbench and then connect to my project 
 
-####### In Project ######
+# In Project #
 Admin Department: Teachers have to register and fill up details for login.
 If teachers have forgotten their password, they can reset it by clicking on forgot password. (they have to put just their email id) after successfully logging, while the admin and the teacher can add, delete and update student data. there are three main modules are as follows:
 Student Management System:
