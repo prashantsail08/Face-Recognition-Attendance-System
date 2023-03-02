@@ -1,5 +1,5 @@
 # Face-Recognition-Attendance-System
-I had Created Face-Recognition-Attendance-System using Python for my sem 5.
+Created Face-Recognition-Attendance-System using Python in my Sem 6.
 
 # Requiremnet
 Hardware Requirement:
